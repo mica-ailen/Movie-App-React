@@ -20,3 +20,5 @@
 •	How to use useEffect when handling API data
 
 •	I practiced a lot more the use of useState and the map() method.
+
+<h3>If you want to watch it live:</h3> https://mica-ailen.github.io/Movie-App-React/
