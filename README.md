@@ -3,7 +3,7 @@
 
 <h2>Objetive 🙌🏼:</h2>
 
-<p>The goal of this project is to create an application to add the list of things that you have to do. In it, you can add new tasks, delete them, edit them and put that they are complete.</p>
+<p>The objective of this project is to create an application with React using a movie API in which you can see a catalog of your favorite movies with their image and the date of creation.</p>
 
 <h4>What tech have I use?🙋</h4>
 
