@@ -5,7 +5,7 @@
 
 <p>The objective of this project is to create an application with React using a movie API in which you can see a catalog of your favorite movies with their image and the date of creation.</p>
 
-<h4>What tech have I use?🙋</h4>
+<h2>What tech have I use?🙋</h2>
 
 •	React<br>
 
@@ -13,7 +13,7 @@
 
 •	React Hooks<br>
 
-<h4>What have I learned? 💪🏼 </h4>
+<h2>What have I learned? 💪🏼 </h2>
 
 •	How to connect an API to React using Fetch
 
@@ -21,4 +21,4 @@
 
 •	I practiced a lot more the use of useState and the map() method.
 
-<h3>If you want to watch it live:</h3> https://mica-ailen.github.io/Movie-App-React/
+<h3>If you want to watch it live 😊:</h3> https://mica-ailen.github.io/Movie-App-React/
