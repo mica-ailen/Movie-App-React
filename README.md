@@ -1,5 +1,5 @@
 
-<h1>Movie App</h1>
+<h1>Film App</h1>
 
 <h2>Objetive 🙌🏼:</h2>
 
@@ -21,4 +21,4 @@
 
 •	I practiced a lot more the use of useState and the map() method.
 
-<h3>If you want to watch it live 😊:</h3> https://mica-ailen.github.io/Movie-App-React/
+<h3>If you want to watch it live 😊:</h3> https://mica-ailen.github.io/Film-App
