@@ -3,11 +3,15 @@
 
 <h2>Objetive 🙌🏼:</h2>
 
-<p>The objective of this project is to create an application with React using a movie API in which you can see a catalog of your favorite movies with their image and the date of creation.</p>
+<p> Developed a movie search application to offer users a seamless experience in quickly finding information
+about their favorite films. The goal is to provide an intuitive tool for discovering both unfamiliar films and timeless
+classics.</p>
 
 <h2>What tech have I use?🙋</h2>
 
 •	React<br>
+
+• REST API
 
 •	CSS<br>
 
