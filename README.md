@@ -1,5 +1,5 @@
 
-<h1>Film App</h1>
+<h1>Film Search Application </h1>
 
 <h2>Objetive 🙌🏼:</h2>
 
