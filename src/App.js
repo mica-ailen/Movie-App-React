@@ -5,7 +5,7 @@ import SearchIcon from "./search.svg";
 
 //
 
-const API_URL = "http://www.omdbapi.com?apikey=5c2f59ca";
+const API_URL = "http://www.omdbapi.com/?apikey=5c2f59ca";
 
 
 
